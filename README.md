@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Keami
 - 🌱 I’m currently learning phyton
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on video games
 - 📫 Ask me about .NET, C# and Windows
 
 <!---
